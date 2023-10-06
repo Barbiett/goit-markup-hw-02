@@ -18,15 +18,19 @@ ul, ol {
     font-weight: 500;
     text-decoration: none;  
 }
+.link:hover,
+.link:active {
+    color: #404bbf;
+}
 .accent{
     color: #2e2f42;
 }
 .header {
     font-weight: 700;
-    letter-spacing: 0.02em;
+    letter-spacing: 0.03em;
     font-family: "Raleway", sans-serif;
-    font-size: 16px;
-    line-height: 1.15;
+    font-size: 18px;
+    line-height: 1.17;
     text-decoration: none;
     text-transform: uppercase;
     color: #4d5ae5;
