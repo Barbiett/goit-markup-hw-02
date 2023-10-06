@@ -21,7 +21,7 @@ ul, ol {
 .accent{
     color: #2e2f42;
 }
-.nav-main-link {
+.header {
     font-weight: "700";
     letter-spacing: 0.03em;
     font-family: "Raleway", sans-serif;
@@ -63,15 +63,18 @@ h3 {
 }
 h2 {
         color: #2E2F42;
-        font-size: 36px;
+        font-size: "36px";
         font-style: normal;
         letter-spacing: 0.72px;
 }
-footer {
+.footer {
     background-color: #2E2F42;
+    font-size: "18px";
+    font-weight: "700";
 }
 .footer-text {
-    color: #F4F4FD;
+    letter-spacing: 0.02em;
+    color: #f4f4fd;
 }
 
 
