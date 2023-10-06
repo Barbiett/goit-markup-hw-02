@@ -1,6 +1,6 @@
 body {
     font-family: "Roboto", sans-serif;
-    font-family: "Raleway",sans-serif;
+    font-family: "Raleway", sans-serif;
     color: #434455;
     background-color: #FFF;
     font-size: 16px;
@@ -23,17 +23,27 @@ ul, ol {
 }
 .header {
     font-weight: 700;
-    letter-spacing: 0.03em;
+    letter-spacing: 0.02em;
     font-family: "Raleway", sans-serif;
-    font-size: 18px;
-    line-height: 1.17;
+    font-size: 16px;
+    line-height: 1.15;
     text-decoration: none;
     text-transform: uppercase;
     color: #4d5ae5;
 }
+.header:hover,
+.header:active {
+    color: #404bbf;
+}
+.address {
+    font-style: normal;
+}
 .contacts-link {
     text-decoration: none;
     color: #434455;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
     .contacts-link:hover,
      .contacts-link:focus {
