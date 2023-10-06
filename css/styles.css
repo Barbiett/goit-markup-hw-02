@@ -26,6 +26,9 @@ ul, ol {
 .header:focus {
     color: #404bbf;
 }
+.header-nav {
+    color: #4d5ae5;
+}
 .accent {
     color: #2e2f42;
 }
@@ -55,7 +58,7 @@ ul, ol {
 .contacts-link:focus {
 color: #404BBF
      }
-     /* hero-section */
+     /* hero-section1 */
 .hero-section {
     background-color: #2E2F42;
 }
@@ -63,24 +66,24 @@ color: #404BBF
     color: #FFF;
     font-size: 56px;
     line-height: 1.07;
-    letter-spacing: 0,02em;
+    letter-spacing: 0.02em;
     text-align: center;
 }
 .button {
-    font-family: "Roboto";
+    font-family: "Roboto",sans-serif;
     font-weight: 500;
     letter-spacing: 0.04em;
     color: #FFF;
     background-color: #4D5AE5;
     font-size: 16px;
-    line-height: 1.5
+    line-height: 1.5;
     cursor: pointer;
 }
 .button:hover,
 .button:focus {
     background-color: #404BBF;
 }
-/* characteristics-section */
+/* characteristics-section2 */
 .characteristics-name {
     font-weight: 500;
     font-size: 20px;
@@ -94,7 +97,7 @@ color: #404BBF
     letter-spacing: 0.02em;
     color: #434455;
 }
-/* our-team-section */
+/* our-team-section3 */
 .our-team-section {
     background-color: #F4F4FD;
 }
@@ -109,7 +112,7 @@ color: #404BBF
 .info-workers {
     background-color: #FFFFFF;
 }
-/* our-portfolio-section */
+/* our-portfolio-section4 */
 
 .footer {
     background-color: #2E2F42;
