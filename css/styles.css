@@ -13,14 +13,7 @@ ul, ol {
 }
 /* header */
 .header {
-    font-weight: 700;
-    letter-spacing: 0.03em;
-    font-family: "Raleway", sans-serif;
-    font-size: 18px;
-    line-height: 1.17;
-    text-decoration: none;
-    text-transform: uppercase;
-    color: #4d5ae5;
+
 }
 .header:hover,
 .header:focus {
@@ -31,6 +24,13 @@ ul, ol {
 }
 .header-logo {
     color: #4d5ae5;
+    font-weight: 700;
+        letter-spacing: 0.03em;
+        font-family: "Raleway", sans-serif;
+        font-size: 18px;
+        line-height: 1.17;
+        text-decoration: none;
+        text-transform: uppercase;
 }
 .accent {
     color: #2e2f42;
