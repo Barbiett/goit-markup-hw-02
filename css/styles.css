@@ -12,9 +12,6 @@ ul, ol {
     list-style-type: none;
 }
 /* header */
-.header {
-
-}
 .header:hover,
 .header:focus {
     color: #404bbf;
